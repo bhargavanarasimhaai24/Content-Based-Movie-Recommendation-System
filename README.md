@@ -138,8 +138,7 @@ Movie-Recommender-System/
 │
 ├── app.py
 ├── Content_Based_Recommender.ipynb
-├── movies.pkl
-├── similarity.pkl
+├── generate_pickle.py
 ├── requirements.txt
 ├── README.md
 ├── tmdb_5000_movies.csv
@@ -147,6 +146,13 @@ Movie-Recommender-System/
 └── screenshots/
     └── homepage.png
 ```
+
+Run the notebook (or generate_pickle.py) once to generate:
+
+movies.pkl
+similarity.pkl
+
+These files are not included because of GitHub size limits.
 
 ---
 
