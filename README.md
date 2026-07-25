@@ -149,8 +149,9 @@ Dataset Link: https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata
 
 Run the notebook once to generate:
 
-movies.pkl
-similarity.pkl
+      movies.pkl
+      
+      similarity.pkl
 
 These files are not included because of GitHub size limits.
 
