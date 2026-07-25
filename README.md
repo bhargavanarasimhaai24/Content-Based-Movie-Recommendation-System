@@ -141,11 +141,11 @@ Movie-Recommender-System/
 ├── generate_pickle.py
 ├── requirements.txt
 ├── README.md
-├── tmdb_5000_movies.csv
-├── tmdb_5000_credits.csv
 └── screenshots/
     └── homepage.png
 ```
+
+Dataset Link: https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata
 
 Run the notebook once to generate:
 
