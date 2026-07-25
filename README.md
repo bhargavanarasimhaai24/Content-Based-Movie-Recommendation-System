@@ -147,7 +147,7 @@ Movie-Recommender-System/
     └── homepage.png
 ```
 
-Run the notebook (or generate_pickle.py) once to generate:
+Run the notebook once to generate:
 
 movies.pkl
 similarity.pkl
