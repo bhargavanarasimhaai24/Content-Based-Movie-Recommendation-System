@@ -155,7 +155,7 @@ Movie-Recommender-System/
 Clone the repository
 
 ```bash
-git clone <repository-link>
+git clone https://github.com/bhargavanarasimhaai24/Content-Based-Movie-Recommendation-System
 ```
 
 Install dependencies
